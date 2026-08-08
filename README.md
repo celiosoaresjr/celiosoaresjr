@@ -34,7 +34,7 @@ Construir uma carreira sólida em **Machine Learning e Inteligência Artificial*
 ## 📊 Estatísticas do GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=celiosoaresjr&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
