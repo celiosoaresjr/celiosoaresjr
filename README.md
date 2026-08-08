@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá 👋, eu sou Célio
 
-<!--
-**celiosoaresjr/celiosoaresjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 **Desenvolvedor Machine Learning & IA em formação**
+🇧🇷 Brasil
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Python, Dados, Machine Learning e Inteligência Artificial**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou aprendendo através de projetos práticos, transformando conhecimento em código e buscando desenvolver soluções para problemas reais.
+
+---
+
+## 🧠 Atualmente estudando
+
+🐍 Python • 📊 Dados • 🧠 Machine Learning • 🤖 Inteligência Artificial • 🗄️ SQL • 🔧 Git & GitHub
+
+---
+
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,linux,vscode" />
+</p>
+
+**Em aprendizado:** NumPy • Pandas • Matplotlib • Scikit-learn • SQL
+
+---
+
+## 🚀 Meu objetivo
+
+Construir uma carreira sólida em **Machine Learning e Inteligência Artificial**, desenvolvendo soluções práticas e evoluindo continuamente através de projetos reais.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+> *"Aprender. Construir. Errar. Melhorar. Repetir."* 🚀
