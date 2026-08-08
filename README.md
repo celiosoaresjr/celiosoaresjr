@@ -1,7 +1,6 @@
-# Olá 👋, eu sou Célio
+# Olá, eu sou Célio 👋
 
-🤖 **Desenvolvedor Machine Learning & IA em formação**
-🇧🇷 Brasil
+🤖 **Desenvolvedor de Machine Learning & IA**
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Python, Dados, Machine Learning e Inteligência Artificial**.
 
@@ -18,7 +17,7 @@ Atualmente, estou aprendendo através de projetos práticos, transformando conhe
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,postgresql,git,github,linux,vscode" />
 </p>
 
 **Em aprendizado:** NumPy • Pandas • Matplotlib • Scikit-learn • SQL
@@ -33,9 +32,6 @@ Construir uma carreira sólida em **Machine Learning e Inteligência Artificial*
 
 ## 📊 Estatísticas do GitHub
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=celiosoaresjr&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
